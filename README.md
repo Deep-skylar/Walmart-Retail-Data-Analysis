@@ -12,4 +12,3 @@ Excel
 
 Tableau Public 
 
-C:\Users\deepak Pc\OneDrive\Pictures\Screenshots\Screenshot (1).png
